@@ -2,366 +2,133 @@
   {
     "id": 1,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "aposta",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "aposta", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 2,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "bet",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "bet", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 3,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "sorte",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "sorte", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 4,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigr",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigr", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 5,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "bet365.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "bet365.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 6,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "sportingbet.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "sportingbet.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 7,
     "priority": 1,
-    "action": {
-      "type": "block"
-    },
-    "condition": {
-      "urlFilter": "betfair.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "betfair.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 8,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "bodog.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "bodog.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 9,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "1xbet.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "1xbet.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 10,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "luckia.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "luckia.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 11,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "betano.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "betano.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 12,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "betmotion.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "betmotion.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 13,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "betmotion.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "betway.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 14,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "betway.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "pinnacle.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 15,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "pinnacle.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "leovegas.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 16,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "leovegas.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "888sport.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 17,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "888sport.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "rivalo.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 18,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "rivalo.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigrinho.bet", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 19,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigrinho.bet",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigrinhobet.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 20,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigrinhobet.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigrinhoapostas.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 21,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigrinhoapostas.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigreapostas.com", "resourceTypes": ["main_frame"] }
   },
   {
     "id": 22,
     "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigreapostas.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 23,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "tigrebets.com",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/index.html" } },
+    "condition": { "urlFilter": "tigrebets.com", "resourceTypes": ["main_frame"] }
   }
 ]

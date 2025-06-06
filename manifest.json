@@ -26,7 +26,8 @@
     "https://*.tigrinhobet.com/*",
     "https://*.tigrinhoapostas.com/*",
     "https://*.tigreapostas.com/*",
-    "https://*.tigrebets.com/*"
+    "https://*.tigrebets.com/*",
+    "<all_urls>"
   ],
   "icons": {
     "16": "img/favicon.png",
@@ -55,12 +56,12 @@
   "web_accessible_resources": [
     {
       "resources": [
+        "index.html",
         "js/particles.min.js",
         "js/script.js",
         "css/style.css",
         "img/favicon.png",
-        "img/slave.png",
-        "index.html"
+        "img/slave.png"
       ],
       "matches": ["<all_urls>"]
     }
