@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Chega de Apostas",
+  "version": "1.0",
+  "description": "Bloqueia sites de apostas com página personalizada. Você vai sair dessa!",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://*.bet365.com/*",
+    "https://*.sportingbet.com/*",
+    "https://*.betfair.com/*",
+    "https://*.bodog.com/*",
+    "https://*.1xbet.com/*",
+    "https://*.luckia.com/*",
+    "https://*.betano.com/*",
+    "https://*.betmotion.com/*",
+    "https://*.betway.com/*",
+    "https://*.pinnacle.com/*",
+    "https://*.leovegas.com/*",
+    "https://*.888sport.com/*",
+    "https://*.rivalo.com/*",
+    "https://*.tigrinho.bet/*",
+    "https://*.tigrinhobet.com/*",
+    "https://*.tigrinhoapostas.com/*",
+    "https://*.tigreapostas.com/*",
+    "https://*.tigrebets.com/*"
+  ],
+  "icons": {
+    "16": "img/favicon.png",
+    "32": "img/favicon.png",
+    "48": "img/favicon.png",
+    "128": "img/favicon.png"
+  },
+  "action": {
+    "default_title": "Chega de Apostas",
+    "default_icon": {
+      "16": "img/favicon.png",
+      "32": "img/favicon.png",
+      "48": "img/favicon.png",
+      "128": "img/favicon.png"
+    }
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "js/particles.min.js",
+        "js/script.js",
+        "css/style.css",
+        "img/favicon.png",
+        "img/slave.png",
+        "index.html"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
