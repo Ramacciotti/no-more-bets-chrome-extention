@@ -1,0 +1,828 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.kto.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.sportingbet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||donald.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||superbet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betpontobet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||brx.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.seguro.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||esportiva.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||apostalegal.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.bet365.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betsul.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||f12.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.novibet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betnacional.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betboo.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.vbet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.estrelabet.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stake.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||m.esportesdasorte.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.brazino777.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||luva.bet.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betano.com.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.bet365.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stake.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.superbet.com.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.novibet.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betway.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bwin.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casas.bet^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betano.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betboo.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bet365.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.bwin.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betway.com.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betnacional.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betfair.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betfair.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.brazino777.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.luva.bet^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.m.esportesdasorte.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 41,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.apostalegal.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 42,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||brx.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 43,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||superbet.com.br^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 44,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||donald.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 45,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.esportiva.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 46,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.seguro.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 47,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betpontobet.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.superbet.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.kto.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportingbet.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 51,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||novibet.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betway.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 53,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||brazino777.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 54,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.bet365.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 55,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betnacional.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 56,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www.betfair.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||novibet.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 58,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportingbet.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 59,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/index.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betway.net^",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]

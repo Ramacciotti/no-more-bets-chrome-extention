@@ -1,69 +1,101 @@
 {
   "manifest_version": 3,
-  "name": "Chega de Apostas",
-  "version": "1.0",
-  "description": "Bloqueia sites de apostas com página personalizada. Você vai sair dessa!",
+  "name": "Chega de Apostas - Bloqueador de Sites de Apostas!",
+  "short_name": "Chega de Apostas!",
+  "version": "1.0.0",
+  "description": "Ajuda usuários a limitar voluntariamente o acesso a sites de apostas, promovendo uma experiência online mais saudável.",
+  "author": "Mariana Ramacciotti",
   "permissions": [
     "declarativeNetRequest",
-    "declarativeNetRequestFeedback",
-    "activeTab"
+    "declarativeNetRequestWithHostAccess",
+    "storage"
   ],
   "host_permissions": [
-    "https://*.bet365.com/*",
-    "https://*.sportingbet.com/*",
-    "https://*.betfair.com/*",
-    "https://*.bodog.com/*",
-    "https://*.1xbet.com/*",
-    "https://*.luckia.com/*",
-    "https://*.betano.com/*",
-    "https://*.betmotion.com/*",
-    "https://*.betway.com/*",
-    "https://*.pinnacle.com/*",
-    "https://*.leovegas.com/*",
-    "https://*.888sport.com/*",
-    "https://*.rivalo.com/*",
-    "https://*.tigrinho.bet/*",
-    "https://*.tigrinhobet.com/*",
-    "https://*.tigrinhoapostas.com/*",
-    "https://*.tigreapostas.com/*",
-    "https://*.tigrebets.com/*",
-    "<all_urls>"
+    "*://*.bet.br/*",
+    "*://*.bet365.com/*",
+    "*://*.stake.com/*",
+    "*://*.betano.com/*",
+    "*://*.betano.pt/*",
+    "*://*.betfair.com/*",
+    "*://*.pinnacle.com/*",
+    "*://*.unibet.com/*",
+    "*://*.williamhill.com/*",
+    "*://*.888sport.com/*",
+    "*://*.betway.com/*",
+    "*://*.bovada.lv/*",
+    "*://*.betsson.com/*",
+    "*://*.10bet.com/*",
+    "*://*.grosvenorcasinos.com/*",
+    "*://*.betcris.com/*",
+    "*://*.1xbet.com/*",
+    "*://*.leovegas.com/*",
+    "*://*.rivalo.com/*",
+    "*://*.betmgm.com/*",
+    "*://*.casinobet.com/*",
+    "*://*.casino777.com/*",
+    "*://*.betvictor.com/*",
+    "*://*.interwetten.com/*",
+    "*://*.betfred.com/*",
+    "*://*.bet-at-home.com/*",
+    "*://*.sportingbet.com/*",
+    "*://*.bwin.com/*",
+    "*://*.paddypower.com/*",
+    "*://*.sportingindex.com/*",
+    "*://*.coral.co.uk/*",
+    "*://*.skybet.com/*",
+    "*://*.melbet.com/*",
+    "*://*.betonline.ag/*",
+    "*://*.betfairexchange.com/*",
+    "https://donald.bet.br/*",
+    "https://superbet.bet.br/*",
+    "https://betpontobet.bet.br/*",
+    "https://brx.bet.br/*",
+    "https://www.seguro.bet.br/*",
+    "https://esportiva.bet.br/*",
+    "https://f12.bet.br/*",
+    "https://betnacional.bet.br/*",
+    "https://luva.bet.br/*",
+    "https://m.esportesdasorte.bet.br/*"
   ],
-  "icons": {
-    "16": "img/favicon.png",
-    "32": "img/favicon.png",
-    "48": "img/favicon.png",
-    "128": "img/favicon.png"
+  "background": {
+    "service_worker": "js/background.js",
+    "type": "module"
   },
   "action": {
     "default_title": "Chega de Apostas",
+    "default_popup": "popup.html",
     "default_icon": {
-      "16": "img/favicon.png",
-      "32": "img/favicon.png",
-      "48": "img/favicon.png",
-      "128": "img/favicon.png"
+      "16": "img/favicon/favicon-16.png",
+      "32": "img/favicon/favicon-32.png",
+      "48": "img/favicon/favicon-48.png",
+      "64": "img/favicon/favicon-64.png",
+      "128": "img/favicon/favicon-128.png"
     }
   },
   "declarative_net_request": {
     "rule_resources": [
       {
-        "id": "ruleset_1",
+        "id": "blocker",
         "enabled": true,
-        "path": "rules.json"
+        "path": "js/rules.json"
       }
     ]
   },
   "web_accessible_resources": [
     {
       "resources": [
-        "index.html",
-        "js/particles.min.js",
-        "js/script.js",
-        "css/style.css",
-        "img/favicon.png",
-        "img/slave.png"
+        "index.html"
       ],
-      "matches": ["<all_urls>"]
+      "matches": [
+        "*://*/*"
+      ]
     }
-  ]
+  ],
+  "icons": {
+    "16": "img/favicon/favicon-16.png",
+    "32": "img/favicon/favicon-32.png",
+    "48": "img/favicon/favicon-48.png",
+    "64": "img/favicon/favicon-64.png",
+    "128": "img/favicon/favicon-128.png"
+  }
 }
