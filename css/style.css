@@ -309,6 +309,46 @@ footer {
     color: rgba(255, 255, 255, 0.5);
     margin-top: 2rem;
 }
+/* Donate */
+.donate-section {
+  padding: 60px 0;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 16px;
+  margin: 60px 0;
+}
+
+.qr-code-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem auto 0;
+  max-width: 250px;
+  width: 100%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.qr-code-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.qr-code-container img:hover {
+  transform: scale(1.03);
+}
+
+.qr-instruction {
+  margin-top: 1rem;
+  color: var(--text-light);
+  font-size: 1rem;
+  text-align: center;
+}
+
 
 /* Responsividade */
 @media (max-width: 992px) {
