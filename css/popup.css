@@ -1,13 +1,13 @@
 :root {
-  --primary: #FF4757;
-  --secondary: #5352ED;
-  --accent: #FF6B67;
-  --dark: #1E1B3A;
-  --light: #F1F2F6;
-  --success: #2ED573;
-  --warning: #FFA502;
-  --text: #2F3542;
-  --text-light: #747D8C;
+  --primary: #ff4757;
+  --secondary: #5352ed;
+  --accent: #ff6b67;
+  --dark: #1e1b3a;
+  --light: #f1f2f6;
+  --success: #2ed573;
+  --warning: #ffa502;
+  --text: #2f3542;
+  --text-light: #747d8c;
 }
 
 * {
@@ -17,8 +17,8 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #2C3A47, #1E1B3A);
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #2c3a47, #1e1b3a);
   color: var(--light);
   min-width: 220px;
   padding: 15px;
@@ -27,7 +27,7 @@ body {
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 900;
   font-size: 1.5rem;
   color: var(--accent);
@@ -54,7 +54,7 @@ button {
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--light);
-  background: linear-gradient(90deg, var(--accent), #FF9472);
+  background: linear-gradient(90deg, var(--accent), #ff9472);
   border: none;
   border-radius: 25px;
   cursor: pointer;
@@ -64,7 +64,7 @@ button {
 }
 
 button:hover:not(:disabled) {
-  background: linear-gradient(90deg, #FF6B67, #FF4C3F);
+  background: linear-gradient(90deg, #ff6b67, #ff4c3f);
   box-shadow: 0 8px 25px rgba(255, 107, 103, 0.6);
   transform: translateY(-2px);
 }
@@ -81,4 +81,3 @@ button:disabled {
   background: var(--dark);
   color: var(--text-light);
 }
-

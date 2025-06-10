@@ -10,7 +10,9 @@
     },
     "condition": {
       "urlFilter": "||www.kto.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -24,7 +26,9 @@
     },
     "condition": {
       "urlFilter": "||www.sportingbet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -38,7 +42,9 @@
     },
     "condition": {
       "urlFilter": "||donald.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -52,7 +58,9 @@
     },
     "condition": {
       "urlFilter": "||superbet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -66,7 +74,9 @@
     },
     "condition": {
       "urlFilter": "||betpontobet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -80,7 +90,9 @@
     },
     "condition": {
       "urlFilter": "||brx.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -94,7 +106,9 @@
     },
     "condition": {
       "urlFilter": "||www.seguro.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -108,7 +122,9 @@
     },
     "condition": {
       "urlFilter": "||esportiva.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -122,7 +138,9 @@
     },
     "condition": {
       "urlFilter": "||apostalegal.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -136,7 +154,9 @@
     },
     "condition": {
       "urlFilter": "||www.bet365.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -150,7 +170,9 @@
     },
     "condition": {
       "urlFilter": "||betsul.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -164,7 +186,9 @@
     },
     "condition": {
       "urlFilter": "||f12.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -178,7 +202,9 @@
     },
     "condition": {
       "urlFilter": "||www.novibet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -192,7 +218,9 @@
     },
     "condition": {
       "urlFilter": "||betnacional.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -206,7 +234,9 @@
     },
     "condition": {
       "urlFilter": "||www.betboo.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -220,7 +250,9 @@
     },
     "condition": {
       "urlFilter": "||www.vbet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -234,7 +266,9 @@
     },
     "condition": {
       "urlFilter": "||www.estrelabet.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -248,7 +282,9 @@
     },
     "condition": {
       "urlFilter": "||stake.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -262,7 +298,9 @@
     },
     "condition": {
       "urlFilter": "||m.esportesdasorte.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -276,7 +314,9 @@
     },
     "condition": {
       "urlFilter": "||www.brazino777.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -290,7 +330,9 @@
     },
     "condition": {
       "urlFilter": "||luva.bet.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -304,7 +346,9 @@
     },
     "condition": {
       "urlFilter": "||www.betano.com.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -318,7 +362,9 @@
     },
     "condition": {
       "urlFilter": "||www.bet365.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -332,7 +378,9 @@
     },
     "condition": {
       "urlFilter": "||stake.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -346,7 +394,9 @@
     },
     "condition": {
       "urlFilter": "||www.superbet.com.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -360,7 +410,9 @@
     },
     "condition": {
       "urlFilter": "||www.novibet.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -374,7 +426,9 @@
     },
     "condition": {
       "urlFilter": "||betway.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -388,7 +442,9 @@
     },
     "condition": {
       "urlFilter": "||bwin.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -402,7 +458,9 @@
     },
     "condition": {
       "urlFilter": "||casas.bet^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -416,7 +474,9 @@
     },
     "condition": {
       "urlFilter": "||www.betano.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -430,7 +490,9 @@
     },
     "condition": {
       "urlFilter": "||www.betboo.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -444,7 +506,9 @@
     },
     "condition": {
       "urlFilter": "||bet365.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -458,7 +522,9 @@
     },
     "condition": {
       "urlFilter": "||www.bwin.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -472,7 +538,9 @@
     },
     "condition": {
       "urlFilter": "||betway.com.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -486,7 +554,9 @@
     },
     "condition": {
       "urlFilter": "||www.betnacional.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -500,7 +570,9 @@
     },
     "condition": {
       "urlFilter": "||betfair.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -514,7 +586,9 @@
     },
     "condition": {
       "urlFilter": "||www.betfair.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -528,7 +602,9 @@
     },
     "condition": {
       "urlFilter": "||www.brazino777.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -542,7 +618,9 @@
     },
     "condition": {
       "urlFilter": "||www.luva.bet^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -556,7 +634,9 @@
     },
     "condition": {
       "urlFilter": "||www.m.esportesdasorte.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -570,7 +650,9 @@
     },
     "condition": {
       "urlFilter": "||www.apostalegal.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -584,7 +666,9 @@
     },
     "condition": {
       "urlFilter": "||brx.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -598,7 +682,9 @@
     },
     "condition": {
       "urlFilter": "||superbet.com.br^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -612,7 +698,9 @@
     },
     "condition": {
       "urlFilter": "||donald.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -626,7 +714,9 @@
     },
     "condition": {
       "urlFilter": "||www.esportiva.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -640,7 +730,9 @@
     },
     "condition": {
       "urlFilter": "||www.seguro.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -654,7 +746,9 @@
     },
     "condition": {
       "urlFilter": "||betpontobet.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -668,7 +762,9 @@
     },
     "condition": {
       "urlFilter": "||www.superbet.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -682,7 +778,9 @@
     },
     "condition": {
       "urlFilter": "||www.kto.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -696,7 +794,9 @@
     },
     "condition": {
       "urlFilter": "||sportingbet.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -710,7 +810,9 @@
     },
     "condition": {
       "urlFilter": "||novibet.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -724,7 +826,9 @@
     },
     "condition": {
       "urlFilter": "||www.betway.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -738,7 +842,9 @@
     },
     "condition": {
       "urlFilter": "||brazino777.com^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -752,7 +858,9 @@
     },
     "condition": {
       "urlFilter": "||www.bet365.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -766,7 +874,9 @@
     },
     "condition": {
       "urlFilter": "||www.betnacional.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -780,7 +890,9 @@
     },
     "condition": {
       "urlFilter": "||www.betfair.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -794,7 +906,9 @@
     },
     "condition": {
       "urlFilter": "||novibet.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -808,7 +922,9 @@
     },
     "condition": {
       "urlFilter": "||sportingbet.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   },
   {
@@ -822,7 +938,9 @@
     },
     "condition": {
       "urlFilter": "||betway.net^",
-      "resourceTypes": ["main_frame"]
+      "resourceTypes": [
+        "main_frame"
+      ]
     }
   }
 ]

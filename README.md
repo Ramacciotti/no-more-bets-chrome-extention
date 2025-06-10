@@ -21,6 +21,7 @@ A Chrome extension that blocks betting sites and redirects to a custom page to h
 This code is publicly available for portfolio and demonstration purposes. Use, modification or distribution without the express permission of the author is not authorized.
 
 ---
+
 ## Contact
 
 For questions or suggestions, please contact: ottimariana@gmail.com
