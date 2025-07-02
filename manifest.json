@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Chega de Apostas - Bloqueador de Sites de Apostas!",
-  "short_name": "Chega de Apostas!",
-  "version": "1.0.0",
+  "name": "Chega de Apostas 2.0 | Bloqueador de Sites de Apostas | Otti Tech",
+  "short_name": "Chega de Apostas 2.0",
+  "version": "2.0.0",
   "description": "Ajuda usuários a limitar voluntariamente o acesso a sites de apostas, promovendo uma experiência online mais saudável.",
-  "author": "Mariana Ramacciotti",
+  "author": "Otti Tech | Mariana Ramacciotti",
   "permissions": [
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess",
@@ -14,8 +14,8 @@
     "*://*.bet.br/*",
     "*://*.bet365.com/*",
     "*://*.stake.com/*",
-    "*://*.betano.com/*",
-    "*://*.betano.pt/*",
+    "*://*.betano.bet.br/*",
+    "*://*.betano.bet.br/*",
     "*://*.betfair.com/*",
     "*://*.pinnacle.com/*",
     "*://*.unibet.com/*",
@@ -62,14 +62,13 @@
     "type": "module"
   },
   "action": {
-    "default_title": "Chega de Apostas",
-    "default_popup": "popup.html",
+    "default_title": "Chega de Apostas 2.0",
     "default_icon": {
-      "16": "img/favicon/favicon-16.png",
-      "32": "img/favicon/favicon-32.png",
-      "48": "img/favicon/favicon-48.png",
-      "64": "img/favicon/favicon-64.png",
-      "128": "img/favicon/favicon-128.png"
+      "16": "img/favicon/favicon16.png",
+      "32": "img/favicon/favicon32.png",
+      "48": "img/favicon/favicon48.png",
+      "64": "img/favicon/favicon64.png",
+      "128": "img/favicon/favicon128.png"
     }
   },
   "declarative_net_request": {
@@ -92,10 +91,10 @@
     }
   ],
   "icons": {
-    "16": "img/favicon/favicon-16.png",
-    "32": "img/favicon/favicon-32.png",
-    "48": "img/favicon/favicon-48.png",
-    "64": "img/favicon/favicon-64.png",
-    "128": "img/favicon/favicon-128.png"
+    "16": "img/favicon/favicon16.png",
+    "32": "img/favicon/favicon32.png",
+    "48": "img/favicon/favicon48.png",
+    "64": "img/favicon/favicon64.png",
+    "128": "img/favicon/favicon128.png"
   }
 }

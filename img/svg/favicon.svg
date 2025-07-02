@@ -1,81 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
-<!-- License: CC Attribution. Made by Taigaio: https://github.com/taigaio/taiga-design -->
-<svg 
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   sodipodi:docname="blocked.svg"
-   height="400"
-   width="400"
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   viewBox="0 0 400 400.00001">
+   id="svg1"
+   sodipodi:docname="blocked_logo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient19">
+      <stop
+         style="stop-color:#ffd649;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#ff426c;stop-opacity:1;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient2"
+       x1="3"
+       y1="16"
+       x2="29"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.504375"
+     inkscape:cx="218.0917"
+     inkscape:cy="316.23296"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="92"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22-0" />
+  <title
+     id="title1">blocked</title>
+  <path
+     d="M16 29c-7.179 0-13-5.82-13-13s5.821-13 13-13c7.18 0 13 5.82 13 13s-5.82 13-13 13zM16 26c2.211 0 4.249-0.727 5.905-1.941l-13.963-13.962c-1.216 1.655-1.942 3.692-1.942 5.903 0 5.522 4.477 10 10 10zM16 6c-2.228 0-4.279 0.737-5.941 1.97l13.971 13.972c1.232-1.663 1.97-3.713 1.97-5.942 0-5.523-4.477-10-10-10z"
+     id="path1"
+     style="fill:url(#linearGradient2)" />
+  <g
+     id="g22-0"
+     transform="matrix(0.04,0,0,0.04,-11.839464,-12.453725)" />
   <metadata
-     id="metadata25960">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-
-</dc:title>
+        <dc:title>blocked</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs25958" />
-  <sodipodi:namedview
-     id="base"
-     bordercolor="#666666"
-     inkscape:pageshadow="2"
-     inkscape:guide-bbox="true"
-     pagecolor="#ffffff"
-     inkscape:window-height="1014"
-     inkscape:window-maximized="1"
-     inkscape:zoom="1.5216606"
-     inkscape:window-x="0"
-     showgrid="false"
-     borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="300.51433"
-     inkscape:cy="205.61924"
-     showguides="true"
-     inkscape:window-y="32"
-     units="px"
-     inkscape:window-width="1918"
-     inkscape:pageopacity="0.0"
-     inkscape:document-units="px">
-    <sodipodi:guide
-       id="guide23298"
-       position="200.71429,121.42857"
-       orientation="1,0" />
-  </sodipodi:namedview>
-  <g
-     id="layer1"
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     transform="translate(0 -652.36)">
-    <circle
-       style="display:inline;opacity:1;fill:#E10607;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle26621-2"
-       cx="199.99959"
-       cy="852.35999"
-       r="197.29538" />
-    <path
-       id="path26623-4"
-       d="m 199.99908,694.52368 c -87.05304,0 -157.836303,70.78264 -157.836303,157.8363 0,87.05382 70.783263,157.83632 157.836303,157.83632 87.05303,0 157.8363,-70.7825 157.8363,-157.83632 0,-87.05366 -70.78327,-157.8363 -157.8363,-157.8363 z m 0,19.72954 c 34.63717,0 66.2581,12.68893 90.47492,33.68053 L 95.573002,942.83538 c -20.992228,-24.21809 -33.680688,-55.83791 -33.680688,-90.4754 0,-76.39103 61.715576,-138.10676 138.106766,-138.10676 z m 104.42607,47.63136 c 20.99223,24.21809 33.68069,55.83791 33.68069,90.4754 0,76.39119 -61.71557,138.10676 -138.10676,138.10676 -34.63718,0 -66.25653,-12.68893 -90.47493,-33.68053 l 194.901,-194.90163 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.99999809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       inkscape:connector-curvature="0">
-      <title
-         id="title26625-30">error</title>
-    </path>
-  </g>
 </svg>

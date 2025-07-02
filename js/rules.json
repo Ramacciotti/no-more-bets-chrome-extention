@@ -345,7 +345,7 @@
       }
     },
     "condition": {
-      "urlFilter": "||www.betano.com.br^",
+      "urlFilter": "||www.betano.bet.br^",
       "resourceTypes": [
         "main_frame"
       ]
@@ -942,5 +942,21 @@
         "main_frame"
       ]
     }
-  }
+  },
+	{
+		"id": 60,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||www.betano.bet.pt^",
+			"resourceTypes": [
+				"main_frame"
+			]
+		}
+	}
 ]
