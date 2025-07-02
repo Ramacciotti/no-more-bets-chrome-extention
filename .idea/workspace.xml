@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f66f68c-7dcf-4295-8c16-e75402fe3dd5" name="Changes" comment="removing">
+      <change beforePath="$PROJECT_DIR$/chega-de-apostas-extensao.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no-more-bets-chrome-extention.rar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ramacciotti&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ramacciotti/no-more-bets-chrome-extention.git&quot;,
+    &quot;accountId&quot;: &quot;85afc6a1-677e-4f63-aa20-131cedd4c02a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2yDnnknu1F04Knd61jLo3v1pzEM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ottim/Documents/company/no-more-bets-chrome-extention/professionals"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ottim\Documents\company\no-more-bets-chrome-extention\professionals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ottim\Documents\projects\no-more-bets-chrome-extention-2\img\favicon" />
+      <recent name="C:\Users\ottim\Documents\projects\no-more-bets-chrome-extention-2\img\svg" />
+      <recent name="C:\Users\ottim\Documents\projects\no-more-bets-chrome-extention-2\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="no-more-bets-chrome-extention" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="no-more-bets-chrome-extention" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f66f68c-7dcf-4295-8c16-e75402fe3dd5" name="Changes" comment="" />
+      <created>1749378181179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749378181179</updated>
+    </task>
+    <task id="LOCAL-00001" summary="adding qr_code">
+      <option name="closed" value="true" />
+      <created>1749378293546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749378293546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding qr_code">
+      <option name="closed" value="true" />
+      <created>1749378413008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749378413008</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding popup">
+      <option name="closed" value="true" />
+      <created>1749392884306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749392884307</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding .rar">
+      <option name="closed" value="true" />
+      <created>1749393386606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749393386606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removing">
+      <option name="closed" value="true" />
+      <created>1749393498951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749393498951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding qr_code" />
+    <MESSAGE value="adding popup" />
+    <MESSAGE value="adding .rar" />
+    <MESSAGE value="removing" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing" />
+  </component>
+</project>

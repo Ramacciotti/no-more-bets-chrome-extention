@@ -9,15 +9,15 @@ document.addEventListener("DOMContentLoaded", () => {
     particlesJS("particles-js", {
       particles: {
         number: { value: 80, density: { enable: true, value_area: 800 } },
-        color: { value: "#FF6B67" },
+        color: { value: "#ff8e59" },
         shape: { type: "circle" },
-        opacity: { value: 0.5, random: true },
+        opacity: { value: 0.1, random: true },
         size: { value: 3, random: true },
         line_linked: {
           enable: true,
           distance: 150,
-          color: "#FF6B67",
-          opacity: 0.4,
+          color: "#ff8e59",
+          opacity: 0.1,
           width: 1,
         },
         move: {
@@ -100,6 +100,19 @@ document.addEventListener("DOMContentLoaded", () => {
   if (statsSection) {
     statsObserver.observe(statsSection);
   }
+
+  /**
+   * Gera links dinâmicos do WhatsApp com base nos atributos data-phone e data-message
+   */
+  const therapistLinks = document.querySelectorAll(".therapist-link");
+
+  therapistLinks.forEach((link) => {
+    const numero = link.dataset.phone;
+    const mensagem = "Olá! Vim pela extensão chega de apostas; gostaria de agendar uma consulta!";
+    const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
+    link.href = url;
+  });
+
 });
 
 /**
