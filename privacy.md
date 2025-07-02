@@ -2,7 +2,7 @@
 
 ## Chega de Apostas - Extensão para Chrome
 
-**Última atualização:** 08/06/2025
+**Última atualização:** 02/07/2025
 
 ### 1. Coleta de Dados
 
@@ -23,4 +23,4 @@ Qualquer mudança nesta política será notificada através das atualizações d
 
 ### 5. Contato
 
-Para dúvidas sobre privacidade: [ottimariana@gmail.com](mailto:ottimariana@gmail.com)
+Para dúvidas sobre privacidade: [ottitechnology@gmail.com](mailto:ottimariana@gmail.com)
