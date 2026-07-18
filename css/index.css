@@ -2,7 +2,7 @@
 :root {
   --primary-bg: #010008;
   --gradient-start: #ffd649;
-  --gradient-end: #ff426c;
+  --gradient-end: #f15025;
   --primary: pink;
   --secondary: #5352ed;
   --accent: pink;
@@ -147,7 +147,7 @@ a {
   font-family: "Montserrat", sans-serif;
   font-size: 4.5rem;
   font-weight: 900;
-  background: linear-gradient(to right, #FFD649, #FF426C);
+  background: linear-gradient(to right, #FFD649, #f15025);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -178,7 +178,7 @@ a {
   font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   font-weight: 900;
-  background: linear-gradient(to right, #FFD649, #FF426C);
+  background: linear-gradient(to right, #FFD649, #f15025);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -236,7 +236,7 @@ a {
   font-family: "Montserrat", sans-serif;
   font-size: 3rem;
   font-weight: 900;
-  background: linear-gradient(to right, #FFD649, #FF426C);
+  background: linear-gradient(to right, #FFD649, #f15025);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
