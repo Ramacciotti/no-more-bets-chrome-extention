@@ -2,7 +2,7 @@
 
 ## Chega de Apostas - Extensão para Chrome
 
-**Última atualização:** 02/07/2025
+**Última atualização:** 27/07/2026
 
 ### 1. Coleta de Dados
 
@@ -20,7 +20,3 @@ Todo o processamento ocorre localmente no seu navegador. Não temos servidores q
 ### 4. Alterações
 
 Qualquer mudança nesta política será notificada através das atualizações da extensão.
-
-### 5. Contato
-
-Para dúvidas sobre privacidade: [ottitechnology@gmail.com](mailto:ottimariana@gmail.com)
