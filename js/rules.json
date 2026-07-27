@@ -1,948 +1,830 @@
 [
-  {
-    "id": 1,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.kto.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 2,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.sportingbet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 3,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||donald.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 4,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||superbet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 5,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betpontobet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||brx.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 7,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.seguro.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 8,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||esportiva.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 9,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||apostalegal.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.bet365.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betsul.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 12,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||f12.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 13,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.novibet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 14,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betnacional.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 15,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betboo.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 16,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.vbet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 17,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.estrelabet.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 18,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||stake.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 19,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||m.esportesdasorte.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 20,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.brazino777.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 21,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||luva.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 22,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betano.bet.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 23,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.bet365.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 24,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||stake.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 25,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.superbet.com.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 26,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.novibet.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 27,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betway.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 28,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||bwin.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 29,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||casas.bet^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 30,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betano.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 31,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betboo.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 32,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||bet365.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 33,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.bwin.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 34,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betway.com.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 35,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betnacional.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 36,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betfair.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 37,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betfair.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 38,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.brazino777.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 39,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.luva.bet^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 40,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.m.esportesdasorte.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 41,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.apostalegal.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 42,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||brx.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 43,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||superbet.com.br^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 44,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||donald.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 45,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.esportiva.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 46,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.seguro.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 47,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betpontobet.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 48,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.superbet.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 49,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.kto.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 50,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||sportingbet.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 51,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||novibet.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 52,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betway.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 53,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||brazino777.com^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 54,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.bet365.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 55,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betnacional.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 56,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||www.betfair.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 57,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||novibet.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 58,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||sportingbet.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
-    "id": 59,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/index.html"
-      }
-    },
-    "condition": {
-      "urlFilter": "||betway.net^",
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
+	{
+		"id": 1,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betano.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 2,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||superbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 3,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bet365.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 4,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||7games.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 5,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betnacional.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 6,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||estrelabet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 7,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportingbet.com.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 8,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfair.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 9,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||kto.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 10,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||f12.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 11,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||esportesdasorte.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 12,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||stake.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 13,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bet7k.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 14,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||rivais.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 15,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||blaze.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 16,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bodog.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 17,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betway.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 18,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||1xbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 19,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||leovegas.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 20,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pokerstars.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 21,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmgm.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 22,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||draftkings.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 23,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fanduel.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 24,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pinnacle.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 25,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||unibet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 26,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||williamhill.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 27,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||888sport.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 28,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bovada.lv^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 29,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsson.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 30,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||10bet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 31,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||grosvenorcasinos.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 32,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betcris.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 33,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||rivalo.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 34,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casinobet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 35,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casino777.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 36,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betvictor.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 37,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||interwetten.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 38,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfred.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 39,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bet-at-home.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 40,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bwin.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 41,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||paddypower.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 42,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportingindex.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 43,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||coral.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 44,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||skybet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 45,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||melbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 46,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betonline.ag^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 47,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfairexchange.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 48,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betparx.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 49,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pointsbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 50,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||barstoolsportsbook.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 51,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||wynnbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 52,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||caesars.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 53,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betrivers.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 54,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||hardrock.bet^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 55,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||twinspires.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 56,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||monte-carlo.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 57,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casino.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 58,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||partypoker.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 59,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||888poker.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
 	{
 		"id": 60,
 		"priority": 1,
@@ -953,10 +835,5048 @@
 			}
 		},
 		"condition": {
-			"urlFilter": "||www.betano.bet.pt^",
-			"resourceTypes": [
-				"main_frame"
-			]
+			"urlFilter": "||ggpoker.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 61,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||winamax.fr^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 62,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betclic.fr^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 63,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pmu.fr^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 64,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportingtech.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 65,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportradar.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 66,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgenius.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 67,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbull.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 68,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdaq.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 69,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||matchbook.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 70,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||smarkets.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 71,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportmarket.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 72,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||oddschecker.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 73,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportytrader.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 74,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||flashscore.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 75,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sofascore.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 76,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||365scores.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 77,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||besoccer.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 78,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||goal.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 79,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||livefootball.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 80,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||livescore.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 81,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||footballcritic.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 82,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||transfermarkt.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 83,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||whoscored.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 84,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fotmob.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 85,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||onefootball.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 86,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||90min.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 87,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||thesportsdb.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 88,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportsmole.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 89,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportinglife.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 90,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||skysports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 91,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||espn.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 92,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||nbcsports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 93,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||foxsports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 94,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||cbssports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 95,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportsillustrated.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 96,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bleacherreport.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 97,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||deadspin.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 98,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||theathletic.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 99,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||theguardian.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 100,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||telegraph.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 101,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||dailymail.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 102,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mirror.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 103,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sun.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 104,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||thetimes.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 105,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||standard.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 106,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||independent.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 107,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||eveningstandard.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 108,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||metro.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 109,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||lbc.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 110,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||talkradio.co.uk^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 111,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||timesofindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 112,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||hindustantimes.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 113,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||indiatoday.in^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 114,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||ndtv.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 115,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||rediff.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 116,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sify.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 117,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||zeenews.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 118,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||dnaindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 119,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mid-day.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 120,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||asianage.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 121,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||deccanchronicle.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 122,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||thehindu.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 123,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||thestatesman.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 124,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||thetribune.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 125,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||outlookindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 126,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||business-standard.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 127,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||financialexpress.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 128,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||livemint.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 129,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||economictimes.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 130,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||moneycontrol.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 131,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bseindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 132,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||nseindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 133,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mcxindia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 134,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||wplay.co^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 135,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostaganha.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 136,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||4play.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 137,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pagol.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 138,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||seubet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 139,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||h2bet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 140,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 141,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vivaro.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 142,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casaapostas.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 143,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsul.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 144,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||jogoonline.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 145,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||supremabet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 146,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||maximabet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 147,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||xpbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 148,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betesporte.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 149,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||lancedesorte.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 150,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betspeed.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 151,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sorteonline.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 152,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||lottoland.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 153,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sortenabet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 154,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betou.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 155,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfusion.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 156,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||afun.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 157,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||ai.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 158,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||6z.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 159,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||gigabet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 160,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||qgbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 161,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vivasorte.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 162,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||megaposta.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 163,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bandbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 164,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betboo.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 165,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||novibet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 166,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfast.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 167,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pixbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 168,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||nossabet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 169,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmotion.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 170,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||galera.bet^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 171,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||aposte.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 172,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betclic.com.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 173,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mrbets.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 174,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgold.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 175,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||7games.bet^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 176,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostasegura.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 177,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betboom.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 178,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmasters.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 179,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betstar.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 180,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casasdeapostas.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 181,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||cbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 182,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||esportenet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 183,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||gobet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 184,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||luck.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 185,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||masterbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 186,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||megabet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 187,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||netbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 188,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||oibet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 189,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||palpite.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 190,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||premierbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 191,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||realsbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 192,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 193,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportsbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 194,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||superbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 195,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||tigrebet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 196,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||topbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 197,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||totalbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 198,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||triplebet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 199,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 200,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vipbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 201,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||winbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 202,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||winners.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 203,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||zerobet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 204,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostasonline.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 205,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betclic.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 206,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfair.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 207,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfast.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 208,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmotion.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 209,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betpix.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 210,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mega.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 211,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||multicanais.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 212,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||nacional.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 213,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pixbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 214,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||reals.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 215,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||seguro.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 216,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||tigre.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 217,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||vai.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 218,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||win.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 219,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostabrasil.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 220,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostaganhar.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 221,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostasbr.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 222,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostassports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 223,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostebrasil.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 224,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||baixarapostas.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 225,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bet24h.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 226,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betaca.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 227,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betalfa.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 228,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betandwin.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 229,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betano.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 230,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betarea.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 231,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betarena.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 232,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betassist.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 233,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betb2b.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 234,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betberry.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 235,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbest.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 236,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbiga.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 237,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbola.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 238,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbrain.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 239,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbr.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 240,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betbuzz.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 241,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betcenter.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 242,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betcity.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 243,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betclub.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 244,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betcoin.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 245,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betconnect.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 246,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betconstruct.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 247,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betcrown.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 248,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdice.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 249,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdirect.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 250,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdoctor.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 251,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdream.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 252,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdrive.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 253,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betdynamics.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 254,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betearn.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 255,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betedge.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 256,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betegypt.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 257,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betel.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 258,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betempire.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 259,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betengine.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 260,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betexpert.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 261,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfirm.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 262,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfix.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 263,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betforce.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 264,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betforum.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 265,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betfuse.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 266,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgain.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 267,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgame.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 268,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgang.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 269,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgenie.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 270,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betgiant.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 271,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betglobal.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 272,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betguru.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 273,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bethero.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 274,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bethouse.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 275,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betinfo.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 276,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betinplay.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 277,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betinvest.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 278,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betking.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 279,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betlab.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 280,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betland.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 281,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betlegend.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 282,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betlink.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 283,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betlive.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 284,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betlog.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 285,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmaker.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 286,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmania.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 287,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmap.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 288,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmark.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 289,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmax.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 290,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmedia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 291,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmerchant.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 292,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmind.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 293,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmix.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 294,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betmonitor.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 295,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betnetwork.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 296,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betnews.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 297,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betnow.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 298,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betoffer.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 299,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betoptic.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 300,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betorbit.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 301,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betpal.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 302,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betportal.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 303,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betpower.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 304,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betpro.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 305,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betprofit.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 306,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betpulse.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 307,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betradar.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 308,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betrank.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 309,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betrepublic.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 310,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betright.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 311,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betrush.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 312,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsafe.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 313,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betscore.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 314,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsense.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 315,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betshare.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 316,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsmart.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 317,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsoccer.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 318,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsolid.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 319,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betspark.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 320,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 321,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betspot.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 322,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betstable.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 323,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betstar.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 324,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betsure.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 325,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bettech.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 326,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betterminal.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 327,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betting.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 328,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bettingbr.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 329,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bettor.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 330,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bettrend.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 331,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bettrust.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 332,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betunited.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 333,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betvalue.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 334,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betvision.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 335,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betwatch.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 336,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betwave.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 337,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betway.com.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 338,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betweb.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 339,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betwise.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 340,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betworld.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 341,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betzone.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 342,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||brbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 343,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||casinobrasil.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 344,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||jogosonline.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 345,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||loteriabr.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 346,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||megasena.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 347,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportingbr.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 348,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||acelerabet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 349,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||amuleto.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 350,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostagolos.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 351,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bookee.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 352,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fairspin.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 353,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||gamdom.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 354,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||greenbets.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 355,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||lancebet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 356,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||luckbox.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 357,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||marjosports.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 358,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||megapari.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 359,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||playpix.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 360,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||rabona.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 361,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||roobet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 362,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||sportsbet.io^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 363,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||wazamba.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 364,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||winunique.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 365,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostou.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 366,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bplay.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 367,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betplay.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 368,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||brasilbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 369,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bullsbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 370,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||cassinopix.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 371,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||geralbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 372,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||hiperbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 373,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||jogao.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 374,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||liderbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 375,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||upbetbr.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 376,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||wjcasino.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 377,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||9d.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 378,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||b2xbet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 379,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||betvera.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 380,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||bet.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 381,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||xp.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 382,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||futebolbet.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 383,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||apostafacil.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 384,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||megasport.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 385,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||blaze.bet.br^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 386,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fortune-tiger.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 387,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fortuneox.bet^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 388,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||jogodotigrinho.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 389,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||spaceman.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 390,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||aviator.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 391,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||jetx.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 392,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||double.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 393,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||crash.bet^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 394,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||cbet.gg^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 395,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||kalshi.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 396,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||polymarket.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 397,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||predictit.org^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 398,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||palpita.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 399,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||cravei.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 400,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||previsaovespera.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 401,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||palpitano.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 402,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||prophetx.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 403,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||predictionmarket.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 404,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||robinhood.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 405,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||ogpredictions.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 406,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||fanaticsmarkets.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 407,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||novig.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 408,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||hedgehogmarkets.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 409,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||ibkrforecasttrader.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 410,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||voxfi.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 411,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||futuriza.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 412,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||eujasabia.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 413,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mercadospreditivos.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 414,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||mercadopred.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 415,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||palpitada.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 416,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||pliks.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 417,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||polyswipe.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 418,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||predexchange.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 419,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||ruckusmarket.com^",
+			"resourceTypes": ["main_frame"]
+		}
+	},
+	{
+		"id": 420,
+		"priority": 1,
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"extensionPath": "/index.html"
+			}
+		},
+		"condition": {
+			"urlFilter": "||stride.com^",
+			"resourceTypes": ["main_frame"]
 		}
 	}
 ]
